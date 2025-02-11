@@ -13,7 +13,7 @@ Docker and Kubernetes
 JavaScript-based Front-end technologies
 
 📫 How to Reach Me
-Email: gaurav@gmail.com
+Email: gauravsinghaw123@gmail.com
 
 📂 Key Projects
 Pitch Venture Backend: A robust backend server built with Node.jsand Express.js.
