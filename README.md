@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there 👋
+Welcome to my GitHub profile!
 
-<!--
-**Gauravsingh123-aw/Gauravsingh123-aw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gaurav Singh, a passionate Full Stack Developer currently diving into React and Node.js.I love exploring new technologies and building innovative projects.
 
-Here are some ideas to get you started:
+🔭 What I'm Working On
+React and Node.js (Full Stack)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 What I'm Learning
+Docker and Kubernetes
+
+💬 Ask Me About
+JavaScript-based Front-end technologies
+
+📫 How to Reach Me
+Email: gaurav@gmail.com
+
+📂 Key Projects
+Pitch Venture Backend: A robust backend server built with Node.jsand Express.js.
+
+Forex Exchange React App: A React app for checking and converting currency exchange rates.
+
+
+🌐 Connect with Me
+LinkedIn:linkedin.com/in/gauravsingh308
+
+GitHub: Gauravsingh123-aw
